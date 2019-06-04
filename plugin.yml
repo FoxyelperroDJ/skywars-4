@@ -1,0 +1,8 @@
+name: SkyWarsJose
+main: sw\SkyWars
+api: 3.0.0
+author: Jose
+version: 1.1
+commands:
+  sw:
+    description: Configuration Commands
